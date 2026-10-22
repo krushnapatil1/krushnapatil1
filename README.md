@@ -4,8 +4,16 @@
 
 I'm an Electronics and Telecommunication Engineering student passionate about RTL design, digital hardware, and design verification. I'm continuously developing my skills through hands-on projects and practical learning.
 
-- 🌱 Currently learning **SystemVerilog**
-- 💻 Interested in **RTL Design, Design Verification, and VLSI**
+## 👨‍💻 About Me
+
+🔍 Aspiring Design Verification Engineer passionate about functional verification of digital designs
+- 💻 Learning Verilog and SystemVerilog for RTL design and functional verification
+- 🔍 Practicing testbench development, simulation, debugging, and waveform analysis
+- 📡 Exploring communication protocols such as UART, SPI, and I2C
+- 🧪 Building hands-on projects including ALU, UART, SPI, and synchronous/asynchronous FIFO using Verilog
+- 🚀 Continuously improving my VLSI skills to become a skilled Design Verification Engineer
+- 
+- 💻 Interested in **RTL Design, Design Verification, and VLSI*
 - 🎯 Aspiring RTL Design / Design Verification Engineer
 - 📫 Email: **krushnapatil8936@gmail.com**
 
