@@ -80,22 +80,22 @@ I'm an Electronics and Telecommunication Engineering student passionate about RT
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/krushnapatil8936">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:krushnapatil8936@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/krushnapatil1">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/krushna-patil-b93138318" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:krushnapatil8936@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/krushnapatil1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<i>"Design with logic. Verify with confidence. Learn something new every day."</i>
+  <i>"Design with logic. Verify with confidence. Learn something new every day."</i>
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
